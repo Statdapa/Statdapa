@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Statdapa 👋
 
-<!--
-**Statdapa/Statdapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python (Pandas, Matplotlib, Seaborn)
+- Statistical Analysis (SPSS, EViews, Minitab)
+- Machine Learning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- 🔨 Building: BTC Price Analysis & AI Agent
+
+## 📫 Connect with me
+- LinkedIn: (isi nanti)
+
+## 🌱 Currently Learning
+- AI Agent Development
+- LangChain
