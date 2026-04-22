@@ -12,7 +12,7 @@
 - 🔨 Building: BTC Price Analysis & AI Agent
 
 ## 📫 Connect with me
-- LinkedIn: (isi nanti)
+- LinkedIn:
 
 ## 🌱 Currently Learning
 - AI Agent Development
