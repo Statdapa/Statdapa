@@ -10,11 +10,11 @@
 
 ## 🧠 About Me
 
-- 🎓 **Statistics Student** with a passion for turning raw data into actionable insights
-- 🤖 Building **AI Agents** that interact with financial markets (Binance ecosystem)
-- 🌱 Currently learning **Web3 & Blockchain** to merge AI with decentralized finance
-- 🔭 Long-term goal: Build intelligent systems at the intersection of **AI + DeFi**
-- 📍 Based in **Semarang, Indonesia**
+-  **Statistics Student** with a passion for turning raw data into actionable insights
+-  Building **AI Agents** that interact with financial markets (Binance ecosystem)
+-  Currently learning **Web3 & Blockchain** to merge AI with decentralized finance
+-  Long-term goal: Build intelligent systems at the intersection of **AI + DeFi**
+-  Based in **Semarang, Indonesia**
 
 ---
 
